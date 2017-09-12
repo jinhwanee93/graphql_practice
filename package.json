@@ -1,0 +1,26 @@
+{
+  "name": "graphql_practice",
+  "version": "1.0.0",
+  "description": "Simple GraphQL server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.3",
+    "nodemon": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinhwanee93/graphql_practice.git"
+  },
+  "author": "Alexandre Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinhwanee93/graphql_practice/issues"
+  },
+  "homepage": "https://github.com/jinhwanee93/graphql_practice#readme"
+}
